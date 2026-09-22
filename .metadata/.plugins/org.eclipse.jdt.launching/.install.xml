@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/home/zenzo/.sdkman/candidates/java/11.0.25-tem" stamp="1729031661000"/>
+    <entry loc="/usr/lib/jvm/java-17-openjdk-amd64" stamp="1787612285471"/>
+    <entry loc="/opt/sts4/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822" stamp="1788509359000"/>
+    <entry loc="/home/zenzo/.sdkman/candidates/java/21.0.2-tem" stamp="1705470942000"/>
+    <entry loc="/opt/sts4/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822/jre" stamp="1788509359000"/>
+    <entry loc="/home/zenzo/.sdkman/candidates/java/11.0.22-tem" stamp="1705445348000"/>
+</dirs>

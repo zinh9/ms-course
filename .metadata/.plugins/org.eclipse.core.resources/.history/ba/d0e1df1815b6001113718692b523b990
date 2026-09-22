@@ -1,0 +1,5 @@
+package com.mscourse.hrworker.repositories;
+
+public class WorkRepository {
+
+}
