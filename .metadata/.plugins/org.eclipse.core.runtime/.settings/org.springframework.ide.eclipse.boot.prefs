@@ -1,13 +1,14 @@
 eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-feign=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.h2=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=hr-payroll
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=brinks
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=4.0.8
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.mscourse
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=hr-payroll
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=brinks
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.mscourse.hrpayroll
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
