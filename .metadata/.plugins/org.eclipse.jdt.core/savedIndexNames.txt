@@ -39,7 +39,6 @@ INDEX VERSION 1.134+/home/zenzo/Documents/workspace-spring-tools-for-eclipse-5.4
 3016168705.index
 906371053.index
 2677451417.index
-3881287504.index
 1980774646.index
 192693501.index
 1214866063.index
