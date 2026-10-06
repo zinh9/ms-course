@@ -18,7 +18,6 @@ INDEX VERSION 1.134+/home/zenzo/Documents/workspace-spring-tools-for-eclipse-5.4
 1155617302.index
 174607318.index
 1481654175.index
-3505003983.index
 930365040.index
 1214866063.index
 1865797976.index
@@ -29,7 +28,6 @@ INDEX VERSION 1.134+/home/zenzo/Documents/workspace-spring-tools-for-eclipse-5.4
 3012855185.index
 245028593.index
 1980774646.index
-832578716.index
 3925124500.index
 280476467.index
 3319974287.index
@@ -38,9 +36,7 @@ INDEX VERSION 1.134+/home/zenzo/Documents/workspace-spring-tools-for-eclipse-5.4
 3696597421.index
 116294454.index
 3840052678.index
-3418838292.index
 955630255.index
-1846070666.index
 1700328562.index
 3016168705.index
 906371053.index
@@ -49,7 +45,6 @@ INDEX VERSION 1.134+/home/zenzo/Documents/workspace-spring-tools-for-eclipse-5.4
 1751255401.index
 115321118.index
 2542902498.index
-2545558956.index
 1804364002.index
 250349293.index
 2570475758.index
@@ -63,7 +58,6 @@ INDEX VERSION 1.134+/home/zenzo/Documents/workspace-spring-tools-for-eclipse-5.4
 2290606429.index
 1471590054.index
 143543364.index
-3683899166.index
 4203743508.index
 1575937652.index
 735746142.index
