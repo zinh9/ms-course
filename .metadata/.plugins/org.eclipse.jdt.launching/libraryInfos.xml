@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
     <libraryInfo home="/home/zenzo/.sdkman/candidates/java/11.0.25-tem" version="11.0.25"/>
-    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-amd64" version="17.0.19"/>
+    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-amd64" version="17.0.20.1"/>
     <libraryInfo home="/opt/sts4/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_25.0.4.v20260826-0822" version="25.0.4.1">
         <bootpath>
             <entry path="null"/>
